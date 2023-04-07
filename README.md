@@ -84,5 +84,3 @@ In response you should get JSON like:
   }
 ]
 ```
-
-### For your convenience, you can test app on http://13.53.164.142:8080/swagger-ui/index.html with Swagger.
